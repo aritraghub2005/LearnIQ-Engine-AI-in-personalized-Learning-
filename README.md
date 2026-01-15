@@ -183,5 +183,3 @@ This enables **focused revision and continuous improvement**.
 * Managing end-to-end AI pipelines
 
 ---
-
-Just tell me 👍
